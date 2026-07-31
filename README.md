@@ -12,7 +12,7 @@ The Introduction to Computer Systems course introduces key concepts of computer 
   
 ##📁 Assignment
 * [sum_of_digits.c](sum_of_digits.c)
-
+* [extract_fraction.c](extract_fraction.c)
 
 
 
