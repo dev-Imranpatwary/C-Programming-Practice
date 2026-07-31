@@ -11,9 +11,9 @@ The Introduction to Computer Systems course introduces key concepts of computer 
 * [cgpa_calculator.c](./cgpa_calculator.c)
   
 ##📁 Assignment
-* [sum_of_digits.c](sum_of_digits.c)
-* [extract_fraction.c](extract_fraction.c)
-* [make_positive.c](make_positive.c)
+* [Problem 1:sum_of_digits.c](sum_of_digits.c)
+* [Problem 2:extract_fraction.c](extract_fraction.c)
+* [Problem 3:make_positive.c](make_positive.c)
 
 
 
