@@ -9,7 +9,7 @@ The Introduction to Computer Systems course introduces key concepts of computer 
 
 ###📁 Practice Codes
 * [cgpa_calculator.c](./cgpa_calculator.c)
-* [marks_and_grades.c](./marks_and_grades.c)
+* [marks_and_grade.c](./marks_and_grade.c)
   
 ##📁 Assignment
 * [Problem 1:sum_of_digits.c](sum_of_digits.c)
